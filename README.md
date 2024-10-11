@@ -23,3 +23,5 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/RWM2D.git
+
+![RWM2D Logo](image_2024-10-11_102054704.png)
