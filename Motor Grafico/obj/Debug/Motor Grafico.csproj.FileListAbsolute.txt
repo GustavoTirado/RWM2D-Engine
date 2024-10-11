@@ -1,0 +1,10 @@
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\obj\Debug\Motor Grafico.csproj.AssemblyReference.cache
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\obj\Debug\Motor_Grafico.Form1.resources
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\obj\Debug\Motor_Grafico.Properties.Resources.resources
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\obj\Debug\Motor Grafico.csproj.GenerateResource.cache
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\obj\Debug\Motor Grafico.csproj.CoreCompileInputs.cache
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\bin\Debug\Motor Grafico.exe.config
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\bin\Debug\Motor Grafico.exe
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\bin\Debug\Motor Grafico.pdb
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\obj\Debug\Motor Grafico.exe
+C:\Users\gustavo_tirado\source\repos\Motor Grafico\Motor Grafico\obj\Debug\Motor Grafico.pdb
